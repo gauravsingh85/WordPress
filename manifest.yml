@@ -6,5 +6,5 @@ applications:
   buildpack: https://github.com/cloudfoundry/php-buildpack
   host: wordpress-GS
   services:
-  - my-test-mysql-db
+  - test_db2
       
