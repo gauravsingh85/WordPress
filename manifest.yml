@@ -1,6 +1,6 @@
 ---
 applications:
-- name: mywordpress
+- name: mywordpress2
   memory: 128M 
   path: .
   buildpack: https://github.com/cloudfoundry/php-buildpack
